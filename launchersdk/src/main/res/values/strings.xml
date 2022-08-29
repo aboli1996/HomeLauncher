@@ -1,0 +1,5 @@
+<resources>
+    <string name="str_app_uninstalled_msg">App is Uninstalled, Do you want to install</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+</resources>

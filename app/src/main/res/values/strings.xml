@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeLauncherApp</string>
+    <string name="app_name_splash">Launcher App</string>
+    <string name="str_hint_search">Search</string>
+    <string name="str_msg_exit_app">"Do you want to Exit App ?"</string>
+    <string name="str_installed">Installed</string>
+    <string name="str_uninstalled">UnInstalled</string>
+</resources>
